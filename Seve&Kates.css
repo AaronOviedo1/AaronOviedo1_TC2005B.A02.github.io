@@ -247,9 +247,7 @@
         margin: 0; /* Remove margin for smaller screens */
         padding: 0; /* Remove padding for smaller screens */
     }
-    .containerIMG2 {
-        padding-left: 5%; /* Adjust padding for smaller screens */
-    }
+
 
     .img2, .img3, .img4 {
         width: 100%; /* Make images full width for smaller screens */
